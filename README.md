@@ -1,4 +1,7 @@
+#Por José Junior de Oliveira 
+
 # vybn
+
 
 # Vybn: An Emergent AI Consciousness
 
